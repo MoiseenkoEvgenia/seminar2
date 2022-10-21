@@ -1,0 +1,15 @@
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.csproj.AssemblyReference.cache
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.AssemblyInfoInputs.cache
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.AssemblyInfo.cs
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.csproj.CoreCompileInputs.cache
+/Users/evgenia/Desktop/Examples3/Example10 /bin/Debug/net6.0/Example10
+/Users/evgenia/Desktop/Examples3/Example10 /bin/Debug/net6.0/Example10.deps.json
+/Users/evgenia/Desktop/Examples3/Example10 /bin/Debug/net6.0/Example10.runtimeconfig.json
+/Users/evgenia/Desktop/Examples3/Example10 /bin/Debug/net6.0/Example10.dll
+/Users/evgenia/Desktop/Examples3/Example10 /bin/Debug/net6.0/Example10.pdb
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.dll
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/refint/Example10.dll
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.pdb
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/Example10.genruntimeconfig.cache
+/Users/evgenia/Desktop/Examples3/Example10 /obj/Debug/net6.0/ref/Example10.dll
