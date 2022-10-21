@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evgenia/Desktop/Examples3/Exampie001/Exampie001.csproj",
-      "projectName": "Exampie001",
-      "projectPath": "/Users/evgenia/Desktop/Examples3/Exampie001/Exampie001.csproj",
+      "projectUniqueName": "/Users/evgenia/Desktop/Examples3/Example13/Example13.csproj",
+      "projectName": "Example13",
+      "projectPath": "/Users/evgenia/Desktop/Examples3/Example13/Example13.csproj",
       "packagesPath": "/Users/evgenia/.nuget/packages/",
-      "outputPath": "/Users/evgenia/Desktop/Examples3/Exampie001/obj/",
+      "outputPath": "/Users/evgenia/Desktop/Examples3/Example13/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/evgenia/.nuget/NuGet/NuGet.Config"
