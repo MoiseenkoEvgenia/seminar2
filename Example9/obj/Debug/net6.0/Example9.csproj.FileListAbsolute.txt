@@ -1,0 +1,15 @@
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.csproj.AssemblyReference.cache
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.AssemblyInfoInputs.cache
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.AssemblyInfo.cs
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.csproj.CoreCompileInputs.cache
+/Users/evgenia/Desktop/Examples3/Example9/bin/Debug/net6.0/Example9
+/Users/evgenia/Desktop/Examples3/Example9/bin/Debug/net6.0/Example9.deps.json
+/Users/evgenia/Desktop/Examples3/Example9/bin/Debug/net6.0/Example9.runtimeconfig.json
+/Users/evgenia/Desktop/Examples3/Example9/bin/Debug/net6.0/Example9.dll
+/Users/evgenia/Desktop/Examples3/Example9/bin/Debug/net6.0/Example9.pdb
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.dll
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/refint/Example9.dll
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.pdb
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/Example9.genruntimeconfig.cache
+/Users/evgenia/Desktop/Examples3/Example9/obj/Debug/net6.0/ref/Example9.dll
